@@ -21,7 +21,7 @@ where c.Registro_de_passaporte in
     where p.Registro_de_passaporte = '4795428');
     
 #Questão 10
-create user Junior@localhost
+create user Everton@localhost
 identified by '123456';
 
 GRANT SELECT
